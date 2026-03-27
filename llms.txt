@@ -1,0 +1,17 @@
+# whatischapter7.com
+
+> What is Chapter 7 Bankruptcy? | whatischapter7.com
+
+A plain-English guide to Chapter 7 liquidation under 11 U.S.C. Section 701-784
+
+This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data.
+
+## Related Sites
+- https://1328f.com -- Free bankruptcy discharge screener
+- https://1328f.org -- Research platform
+- https://bankruptcymill.org -- Bankruptcy mill detection
+- https://serialfiler.org -- Serial filing restrictions
+- https://dischargebar.org -- Discharge waiting periods
+
+## Contact
+- Ko-fi: https://ko-fi.com/ilikemath9999
