@@ -1,19 +1,30 @@
-# whatischapter7.com
+# What Is Chapter 7 Bankruptcy? -- Complete Guide [2026]
+> What is Chapter 7 bankruptcy? Eligibility, means test, exemptions, timeline, and what debts get discharged. Free 2026 guide with calculator.
 
-> Complete guide to Chapter 7 bankruptcy -- exemptions, eligibility, and what property you keep.
+## About
+whatischapter7.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-whatischapter7.com is a free, open-source educational resource about Chapter 7 bankruptcy and exemptions. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://whatischapter7.com/: What is Chapter 7 bankruptcy -- the liquidation chapter explained
-- https://whatischapter7.com/federal-exemptions.html: Federal bankruptcy exemptions under 11 U.S.C. Section 522(d)
-- https://whatischapter7.com/state-exemptions.html: State bankruptcy exemptions -- which states use federal vs state exemptions
-- https://whatischapter7.com/homestead.html: Homestead exemption in bankruptcy -- protecting your home equity
-- https://whatischapter7.com/vehicles.html: Vehicle exemptions -- how much car equity you can protect
-- https://whatischapter7.com/retirement.html: Retirement account protections in bankruptcy -- 401k, IRA, pension
-- https://whatischapter7.com/wildcard.html: Wildcard exemption -- protecting any property you choose
+## Key Pages
+- Chapter 7 Bankruptcy Asset Limits and Exemptions -- What You Can Keep: https://whatischapter7.com/asset-limits.html
+- Chapter 7 Discharge: What Debts Are Eliminated? (2026): https://whatischapter7.com/chapter-7-discharge.html
+- Chapter 7 Bankruptcy Process: Start to Finish (2026): https://whatischapter7.com/chapter-7-process.html
+- Chapter 7 Bankruptcy and Your Credit Score -- Impact and Recovery: https://whatischapter7.com/credit-score.html
+- Federal Bankruptcy Exemptions: Complete List Under 11 U.S.C. 522(d): https://whatischapter7.com/federal-exemptions.html
+- Homestead Exemption in Bankruptcy: Can I Keep My House?: https://whatischapter7.com/homestead.html
+- What Is Chapter 7 Bankruptcy? -- Complete Guide: https://whatischapter7.com/
+- Retirement Accounts in Bankruptcy: Are They Protected?: https://whatischapter7.com/retirement.html
+- State Bankruptcy Exemptions: 50-State Overview: https://whatischapter7.com/state-exemptions.html
+- Chapter 7 Bankruptcy Timeline: Filing to Discharge: https://whatischapter7.com/timeline.html
+- Vehicle Exemption in Bankruptcy: Can I Keep My Car?: https://whatischapter7.com/vehicles.html
+- What You Keep in Chapter 7 Bankruptcy (2026): https://whatischapter7.com/what-you-keep.html
+- What You Might Lose in Chapter 7 Bankruptcy (2026): https://whatischapter7.com/what-you-lose.html
+- Who Qualifies for Chapter 7 Bankruptcy? (2026): https://whatischapter7.com/who-qualifies.html
+- The Wildcard Exemption: Protecting Any Property in Bankruptcy: https://whatischapter7.com/wildcard.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
