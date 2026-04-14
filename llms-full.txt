@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Chapter 7 Bankruptcy Asset Limits and Exemptions -- What You Can Keep
+## Chapter 7 Bankruptcy Asset Limits and Exemptions - What You Can Keep
 Source: https://whatischapter7.com/asset-limits.html
 
 Skip to main content
@@ -27,15 +27,15 @@ Credit Score
 
 Chapter 7 Asset Limits and Exemptions
 
-What you can keep when you file Chapter 7 bankruptcy -- federal vs state exemptions explained in plain English
+What you can keep when you file Chapter 7 bankruptcy - federal vs state exemptions explained in plain English
 
 Home › Asset Limits & Exemptions
 
 There Is No Single "Asset Limit" in Chapter 7
 
-One of the biggest misconceptions about Chapter 7 is that there is a hard asset limit -- a dollar figure above which you cannot file. That is not how it works. Instead, the Bankruptcy Code uses a system of exemptions that protect specific types and amounts of property.
+One of the biggest misconceptions about Chapter 7 is that there is a hard asset limit - a dollar figure above which you cannot file. That is not how it works. Instead, the Bankruptcy Code uses a system of exemptions that protect specific types and amounts of property.
 
-If all of your property falls within the applicable exemptions, you keep everything. If some property exceeds the exemption limits, the Chapter 7 trustee may sell the non-exempt portion to pay creditors. In practice, roughly 95% of Chapter 7 cases are "no-asset" cases -- meaning the trustee finds nothing worth selling.
+If all of your property falls within the applicable exemptions, you keep everything. If some property exceeds the exemption limits, the Chapter 7 trustee may sell the non-exempt portion to pay creditors. In practice, roughly 95% of Chapter 7 cases are "no-asset" cases - meaning the trustee finds nothing worth selling.
 
 Federal vs State Exemptions
 
@@ -77,19 +77,19 @@ Unlimited: Texas, Florida, Kansas, Iowa, South Dakota, and Oklahoma offer unlimi
 
 High: Massachusetts ($500,000), Minnesota ($450,000), Nevada ($605,000)
 
-Low: New Jersey ($0 -- no state homestead exemption), Maryland ($25,150), Alabama ($16,450)
+Low: New Jersey ($0 - no state homestead exemption), Maryland ($25,150), Alabama ($16,450)
 
 See our homestead exemption guide for a detailed state-by-state breakdown.
 
 Vehicle Exemption
 
-The federal vehicle exemption is $4,450, which protects equity -- not the car's total value. If you owe more on the car loan than the car is worth, you have no equity to protect, and the exemption is not needed.
+The federal vehicle exemption is $4,450, which protects equity - not the car's total value. If you owe more on the car loan than the car is worth, you have no equity to protect, and the exemption is not needed.
 
 Many states offer higher vehicle exemptions. Missouri allows $3,000, Kansas allows $20,000, and some states have no specific vehicle exemption but allow wildcard amounts to be applied. See our vehicle exemptions page.
 
 Personal Property
 
-Federal law protects household goods, furnishings, appliances, clothing, and similar items up to $700 per item and $14,875 in aggregate. In practice, used household goods have very low resale value -- your used couch and TV are worth far less than you paid for them. Trustees almost never pursue household goods.
+Federal law protects household goods, furnishings, appliances, clothing, and similar items up to $700 per item and $14,875 in aggregate. In practice, used household goods have very low resale value - your used couch and TV are worth far less than you paid for them. Trustees almost never pursue household goods.
 
 Retirement Accounts
 
@@ -101,7 +101,7 @@ See our retirement account protections guide.
 
 Wildcard Exemption
 
-The federal wildcard exemption under Section 522(d)(5) can be applied to any property. It provides $1,475 outright, plus up to $13,950 of unused homestead exemption. If you rent and do not use any homestead exemption, your wildcard can be as high as $15,425 -- usable for cash, bank accounts, tax refunds, or any other asset.
+The federal wildcard exemption under Section 522(d)(5) can be applied to any property. It provides $1,475 outright, plus up to $13,950 of unused homestead exemption. If you rent and do not use any homestead exemption, your wildcard can be as high as $15,425 - usable for cash, bank accounts, tax refunds, or any other asset.
 
 What If Your Assets Exceed Exemption Limits?
 
@@ -117,13 +117,13 @@ The "no-asset" reality: According to federal court data, approximately 95% of Ch
 
 Cross-References
 
-bankruptcyexemptions.com -- Deep dive into federal and state exemption systems
+bankruptcyexemptions.com - Deep dive into federal and state exemption systems
 
-chapter7vs13.org -- Comparing Chapter 7 and Chapter 13 for asset protection
+chapter7vs13.org - Comparing Chapter 7 and Chapter 13 for asset protection
 
-bankruptcyfreshstart.org -- Planning your fresh start after bankruptcy
+bankruptcyfreshstart.org - Planning your fresh start after bankruptcy
 
-727a8.com state-by-state data -- Discharge outcomes by state
+727a8.com state-by-state data - Discharge outcomes by state
 
 Related Guides
 
@@ -140,7 +140,7 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -253,6 +253,9 @@ What Debts Are Eliminated?
 
 A complete list of dischargeable and non-dischargeable debts in Chapter 7 bankruptcy.
 
+Home›Whatischapter7›Chapter 7 Discharge:
+What Debts Are Eliminated?
+
 Dischargeable Debts in Chapter 7
 
 Credit card debt
@@ -303,7 +306,7 @@ Income taxes can be discharged if all three conditions are met: (1) the tax retu
 
 Discharge vs. Lien Survival
 
-The discharge eliminates your personal liability -- you no longer owe the money. However, valid liens survive discharge. If a creditor has a lien on your property (mortgage, car loan, judgment lien), the lien remains even though your personal obligation is gone.
+The discharge eliminates your personal liability - you no longer owe the money. However, valid liens survive discharge. If a creditor has a lien on your property (mortgage, car loan, judgment lien), the lien remains even though your personal obligation is gone.
 
 This means: if you discharge a mortgage debt but keep the house, the lender can still foreclose. The discharge means you won't owe a deficiency balance if they do.
 
@@ -411,13 +414,16 @@ Start to Finish
 
 Every step from your first consultation through discharge and case closure. 3-4 months, simplified.
 
+Home›Whatischapter7›The Chapter 7 Process
+Start to Finish
+
 Step 1: Consultation and Preparation
 
 Meet with a bankruptcy attorney or begin pro se preparation. Gather financial documents, complete credit counseling, and determine means test eligibility. This phase takes 1-4 weeks.
 
 Step 2: Filing the Petition
 
-Your attorney files the petition, schedules, and statements electronically with the bankruptcy court. The automatic stay takes effect immediately -- all collection activity stops.
+Your attorney files the petition, schedules, and statements electronically with the bankruptcy court. The automatic stay takes effect immediately - all collection activity stops.
 
 Step 3: Trustee Review
 
@@ -443,7 +449,7 @@ Typically 3-4 months from filing to discharge, plus 1-4 weeks of preparation bef
 
 Do I have to go to court?
 
-You attend one hearing -- the 341 meeting of creditors. This is usually held in a meeting room, not a courtroom, and lasts 5-10 minutes.
+You attend one hearing - the 341 meeting of creditors. This is usually held in a meeting room, not a courtroom, and lasts 5-10 minutes.
 
 What happens if a creditor objects?
 
@@ -515,7 +521,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 7 Bankruptcy and Your Credit Score -- Impact and Recovery
+## Chapter 7 Bankruptcy and Your Credit Score - Impact and Recovery
 Source: https://whatischapter7.com/credit-score.html
 
 Skip to main content
@@ -586,7 +592,7 @@ Available through credit unions and some online lenders. You make fixed monthly 
 
 3. Authorized User
 
-A family member with good credit can add you as an authorized user on one of their existing credit cards. Their payment history on that account gets added to your credit report. You do not even need to use the card -- simply being listed as an authorized user helps your score.
+A family member with good credit can add you as an authorized user on one of their existing credit cards. Their payment history on that account gets added to your credit report. You do not even need to use the card - simply being listed as an authorized user helps your score.
 
 4. Keep All New Accounts Current
 
@@ -604,11 +610,11 @@ See chapter7vs13.org for a detailed comparison.
 
 Cross-References
 
-bankruptcyfreshstart.org -- Complete guide to your fresh start after bankruptcy
+bankruptcyfreshstart.org - Complete guide to your fresh start after bankruptcy
 
-chapter7vs13.org -- Compare credit impacts of Chapter 7 vs Chapter 13
+chapter7vs13.org - Compare credit impacts of Chapter 7 vs Chapter 13
 
-Chapter 7 timeline -- How long the process takes from filing to discharge
+Chapter 7 timeline - How long the process takes from filing to discharge
 
 Related Guides
 
@@ -625,7 +631,7 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -727,15 +733,17 @@ Vehicles
 Retirement
 Wildcard
 
-Federal Bankruptcy Exemptions -- Complete List
+Federal Bankruptcy Exemptions - Complete List
 
 Every federal exemption under 11 U.S.C. Section 522(d) with current dollar amounts. Available in states that have not opted out of the federal system.
+
+whatischapter7.com›Federal Exemptions
 
 About the Federal Exemptions
 
 Section 522(d) of the Bankruptcy Code provides a set of exemptions that debtors can use to protect property from the bankruptcy estate. These amounts are adjusted every three years based on the Consumer Price Index. The amounts listed below reflect the most recent adjustment.
 
-You can use the federal exemptions only if your state has not opted out. About 17 states plus the District of Columbia allow you to choose between the federal and state exemption systems. In an opt-out state, you must use the state exemptions instead -- but certain federal non-bankruptcy exemptions (like Social Security protections) still apply.
+You can use the federal exemptions only if your state has not opted out. About 17 states plus the District of Columbia allow you to choose between the federal and state exemption systems. In an opt-out state, you must use the state exemptions instead - but certain federal non-bankruptcy exemptions (like Social Security protections) still apply.
 
 Spouses filing jointly can each claim the full set of federal exemptions, effectively doubling every amount listed below. This is sometimes called "stacking" exemptions.
 
@@ -748,90 +756,90 @@ Property
 Amount
 
 522(d)(1)
-Homestead -- equity in your primary residence, including co-op or burial plot
+Homestead - equity in your primary residence, including co-op or burial plot
 $27,900
 
 522(d)(2)
-Motor vehicle -- equity in one motor vehicle
+Motor vehicle - equity in one motor vehicle
 $4,450
 
 522(d)(3)
-Household goods -- furniture, appliances, clothing, animals, crops, musical instruments, books (per item cap)
+Household goods - furniture, appliances, clothing, animals, crops, musical instruments, books (per item cap)
 $700 per item, $14,875 total
 
 522(d)(4)
-Jewelry -- jewelry held primarily for personal, family, or household use
+Jewelry - jewelry held primarily for personal, family, or household use
 $1,875
 
 522(d)(5)
-Wildcard -- any property of the debtor's choice, plus any unused portion of the homestead exemption
+Wildcard - any property of the debtor's choice, plus any unused portion of the homestead exemption
 $1,475 + up to $13,950 of unused homestead
 
 522(d)(6)
-Tools of the trade -- implements, professional books, and tools used in your trade or business
+Tools of the trade - implements, professional books, and tools used in your trade or business
 $2,800
 
 522(d)(7)
-Unmatured life insurance -- any unmatured life insurance contract (not credit life)
+Unmatured life insurance - any unmatured life insurance contract (not credit life)
 Unlimited (contract itself)
 
 522(d)(8)
-Life insurance loan value -- accrued dividends/interest or loan value of unmatured life insurance
+Life insurance loan value - accrued dividends/interest or loan value of unmatured life insurance
 $14,875
 
 522(d)(9)
-Health aids -- professionally prescribed health aids for debtor or dependent
+Health aids - professionally prescribed health aids for debtor or dependent
 Unlimited
 
 522(d)(10)(A)
-Social Security -- Social Security benefits
+Social Security - Social Security benefits
 Unlimited
 
 522(d)(10)(B)
-Veterans' benefits -- VA disability, pension benefits
+Veterans' benefits - VA disability, pension benefits
 Unlimited
 
 522(d)(10)(C)
-Disability benefits -- disability, illness, or unemployment compensation
+Disability benefits - disability, illness, or unemployment compensation
 Unlimited
 
 522(d)(10)(D)
-Alimony and support -- alimony, support, or separate maintenance (reasonably necessary)
+Alimony and support - alimony, support, or separate maintenance (reasonably necessary)
 As needed for support
 
 522(d)(10)(E)
-Pension/profit sharing -- payments under stock bonus, pension, profit-sharing, annuity, or similar plan (reasonably necessary)
+Pension/profit sharing - payments under stock bonus, pension, profit-sharing, annuity, or similar plan (reasonably necessary)
 As needed for support
 
 522(d)(11)(A)
-Crime victim compensation -- award under a crime victim's reparation law
+Crime victim compensation - award under a crime victim's reparation law
 Unlimited
 
 522(d)(11)(B)
-Wrongful death -- payment on account of the wrongful death of a person the debtor was a dependent of
+Wrongful death - payment on account of the wrongful death of a person the debtor was a dependent of
 As needed for support
 
 522(d)(11)(C)
-Life insurance proceeds -- payment under a life insurance contract for a person the debtor was a dependent of
+Life insurance proceeds - payment under a life insurance contract for a person the debtor was a dependent of
 As needed for support
 
 522(d)(11)(D)
-Personal injury -- payment for personal bodily injury (not pain and suffering or pecuniary loss)
+Personal injury - payment for personal bodily injury (not pain and suffering or pecuniary loss)
 $27,900
 
 522(d)(11)(E)
-Loss of future earnings -- payment for loss of future earnings of debtor or dependent
+Loss of future earnings - payment for loss of future earnings of debtor or dependent
 As needed for support
 
 522(d)(12)
-Retirement funds -- funds in tax-exempt retirement accounts (IRAs, 401(k)s, etc.)
+Retirement funds - funds in tax-exempt retirement accounts (IRAs, 401(k)s, etc.)
 IRA: $1,512,350; ERISA plans: unlimited
 
 Key Details and Strategy
 
 The Wildcard Is the Most Powerful Exemption
 
-Section 522(d)(5) provides $1,475 that can be applied to any property. But its real power comes from the unused homestead provision: if you do not use the full $27,900 homestead exemption (for example, because you rent), you can add up to $13,950 of that unused amount to the wildcard. That gives renters up to $15,425 in wildcard protection they can apply to any asset -- cash, bank accounts, tax refunds, vehicles, legal claims, or anything else.
+Section 522(d)(5) provides $1,475 that can be applied to any property. But its real power comes from the unused homestead provision: if you do not use the full $27,900 homestead exemption (for example, because you rent), you can add up to $13,950 of that unused amount to the wildcard. That gives renters up to $15,425 in wildcard protection they can apply to any asset - cash, bank accounts, tax refunds, vehicles, legal claims, or anything else.
 
 Household Goods: Per-Item and Aggregate Limits
 
@@ -849,15 +857,15 @@ Important: You cannot mix federal and state exemptions. You must choose one syst
 
 Legal References
 
-11 U.S.C. Section 522(d) -- Federal exemptions
+11 U.S.C. Section 522(d) - Federal exemptions
 
-11 U.S.C. Section 522(b) -- Election between federal and state
+11 U.S.C. Section 522(b) - Election between federal and state
 
-11 U.S.C. Section 104 -- Inflation adjustments
+11 U.S.C. Section 104 - Inflation adjustments
 
-State exemptions overview -- Which states allow federal exemptions
+State exemptions overview - Which states allow federal exemptions
 
-1328f.com -- Free discharge eligibility screening tool
+1328f.com - Free discharge eligibility screening tool
 
 Related Guides
 
@@ -869,12 +877,16 @@ Chapter 7 Filing Bar Rules
 
 727(a)(8) Eight-Year Filing Bar
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -981,13 +993,15 @@ Vehicles
 Retirement
 Wildcard
 
-Homestead Exemption -- Can I Keep My House?
+Homestead Exemption - Can I Keep My House?
 
 The homestead exemption is the most important exemption for homeowners. It protects equity in your primary residence from creditors in bankruptcy.
 
+whatischapter7.com›Homestead Exemption
+
 How the Homestead Exemption Works
 
-The homestead exemption protects equity in your primary residence -- not the total value of the home. Equity is the difference between what your home is worth and what you owe on it (mortgages, home equity loans, tax liens, etc.).
+The homestead exemption protects equity in your primary residence - not the total value of the home. Equity is the difference between what your home is worth and what you owe on it (mortgages, home equity loans, tax liens, etc.).
 
 If your equity is less than or equal to the exemption amount, the trustee cannot sell your home. If your equity exceeds the exemption, the trustee could theoretically sell the home, pay off your mortgage, give you your exempt amount, and distribute the rest to creditors. In practice, trustees rarely do this unless the non-exempt equity is substantial, because the costs of sale reduce the net recovery.
 
@@ -1021,13 +1035,13 @@ See the complete 50-state exemption table for your state's specific amount.
 
 The 730-Day Residency Requirement
 
-Under Section 522(b)(3), you must use the exemptions of the state where you have been domiciled for the greater part of the 730 days (two years) immediately before filing. This rule prevents "exemption shopping" -- moving to a more favorable state right before filing.
+Under Section 522(b)(3), you must use the exemptions of the state where you have been domiciled for the greater part of the 730 days (two years) immediately before filing. This rule prevents "exemption shopping" - moving to a more favorable state right before filing.
 
 If you moved recently: If you have not lived in your current state for at least 730 days, you may have to use your former state's exemptions. If no state qualifies under the 730-day test, you default to the federal exemptions under Section 522(b)(3)(C), even if your current state has opted out.
 
 The 1,215-Day Homestead Cap
 
-Section 522(p) adds another restriction. If you acquired your homestead interest within 1,215 days (about 3 years and 4 months) before filing, your homestead exemption is capped at $189,050 -- regardless of what your state law allows. This cap was designed to prevent people from sinking money into a home in an unlimited-homestead state right before filing.
+Section 522(p) adds another restriction. If you acquired your homestead interest within 1,215 days (about 3 years and 4 months) before filing, your homestead exemption is capped at $189,050 - regardless of what your state law allows. This cap was designed to prevent people from sinking money into a home in an unlimited-homestead state right before filing.
 
 Important exceptions to the 1,215-day cap:
 
@@ -1047,29 +1061,29 @@ Chapter 13 also allows you to cure mortgage arrears through the plan, keeping yo
 
 Practical Tips
 
-Get a current appraisal or CMA -- you need an accurate market value, not a Zillow estimate, to calculate equity
+Get a current appraisal or CMA - you need an accurate market value, not a Zillow estimate, to calculate equity
 
-Include all liens -- mortgages, home equity lines, tax liens, judgment liens, and mechanic's liens all reduce equity
+Include all liens - mortgages, home equity lines, tax liens, judgment liens, and mechanic's liens all reduce equity
 
-Consider lien avoidance -- under Section 522(f), you can avoid judicial liens that impair your homestead exemption
+Consider lien avoidance - under Section 522(f), you can avoid judicial liens that impair your homestead exemption
 
-Timing matters -- if you are close to the 730-day or 1,215-day thresholds, waiting a few months to file could significantly change your exemption
+Timing matters - if you are close to the 730-day or 1,215-day thresholds, waiting a few months to file could significantly change your exemption
 
-Joint filers can stack -- married couples filing jointly can each claim the homestead exemption, effectively doubling the amount in states that allow it
+Joint filers can stack - married couples filing jointly can each claim the homestead exemption, effectively doubling the amount in states that allow it
 
 Legal References
 
-11 U.S.C. Section 522(d)(1) -- Federal homestead exemption
+11 U.S.C. Section 522(d)(1) - Federal homestead exemption
 
-11 U.S.C. Section 522(b)(3) -- 730-day domicile rule
+11 U.S.C. Section 522(b)(3) - 730-day domicile rule
 
-11 U.S.C. Section 522(p) -- 1,215-day homestead cap
+11 U.S.C. Section 522(p) - 1,215-day homestead cap
 
-11 U.S.C. Section 522(f) -- Lien avoidance
+11 U.S.C. Section 522(f) - Lien avoidance
 
-State exemptions table -- Homestead amounts by state
+State exemptions table - Homestead amounts by state
 
-1328f.com -- Free discharge eligibility screening tool
+1328f.com - Free discharge eligibility screening tool
 
 Related Guides
 
@@ -1086,7 +1100,7 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -1177,7 +1191,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## What Is Chapter 7 Bankruptcy? -- Complete Guide [2026]
+## What Is Chapter 7 Bankruptcy? - Complete Guide [2026]
 Source: https://whatischapter7.com/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1215,7 +1229,7 @@ codebtorstay.org
 bankruptcyhardship.org
 voluntarypetition.org
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 What Is Chapter 7 Bankruptcy?
 
@@ -1225,13 +1239,13 @@ Network › What is Chapter 7 Bankruptcy?
 
 About This Site
 
-Chapter 7 bankruptcy -- sometimes called "liquidation" or "straight bankruptcy" -- is the most common form of bankruptcy filed in the United States. It allows individuals and businesses to discharge most unsecured debts and get a fresh financial start, typically in 3 to 6 months.
+Chapter 7 bankruptcy - sometimes called "liquidation" or "straight bankruptcy" - is the most common form of bankruptcy filed in the United States. It allows individuals and businesses to discharge most unsecured debts and get a fresh financial start, typically in 3 to 6 months.
 
 This site will provide a comprehensive, jargon-free explanation of how Chapter 7 works: who qualifies (the bankruptcy means test guide), what property you can keep (exemptions), what debts get discharged, and what to expect at every stage of the process from filing through discharge.
 
-We will cover the entire Chapter 7 timeline, including the 341 meeting of creditors, the role of the Chapter 7 trustee, potential objections to discharge under Section 727(a), and what happens to secured debts like car loans and mortgages.
+We will cover the entire Chapter 7 timeline, including the 341 meeting of creditors, the role of the Chapter 7 trustee, potential objections to discharge under Section 727(a), and what happens to secured debts like car loans and mortgages. Before you file, make sure you understand what not to do before bankruptcy - certain pre-filing actions like transferring property or running up credit cards can jeopardize your case.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -1289,18 +1303,18 @@ Subscribe
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 Discharge Bar -- Eight-year bar between Chapter 7 discharges under Section 727(a)(8)
+Chapter 7 Discharge Bar - Eight-year bar between Chapter 7 discharges under Section 727(a)(8)
 
-The 341 Meeting -- What to expect at your meeting of creditors
+The 341 Meeting - What to expect at your meeting of creditors
 
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -1342,7 +1356,7 @@ Complete guide to the 8-year Chapter 7 discharge bar
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -1503,11 +1517,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1545,21 +1562,23 @@ Vehicles
 Retirement
 Wildcard
 
-Retirement Accounts -- Are They Protected?
+Retirement Accounts - Are They Protected?
 
-The short answer is yes -- most retirement accounts are fully protected in bankruptcy. But the details matter, especially for IRAs and inherited accounts.
+The short answer is yes - most retirement accounts are fully protected in bankruptcy. But the details matter, especially for IRAs and inherited accounts.
+
+whatischapter7.com›Retirement Accounts
 
 The Good News: Most Retirement Funds Are Safe
 
 Retirement accounts are among the most protected assets in bankruptcy. Congress and the courts have consistently held that people should not be forced to deplete their retirement savings to pay current debts. The protections come from multiple sources:
 
-ERISA (Employee Retirement Income Security Act) -- provides blanket federal protection for employer-sponsored plans
+ERISA (Employee Retirement Income Security Act) - provides blanket federal protection for employer-sponsored plans
 
-Section 522(b)(3)(C) -- exempts retirement funds in tax-exempt accounts regardless of state opt-out
+Section 522(b)(3)(C) - exempts retirement funds in tax-exempt accounts regardless of state opt-out
 
-Section 522(d)(12) -- the federal bankruptcy exemption for retirement funds (in non-opt-out states)
+Section 522(d)(12) - the federal bankruptcy exemption for retirement funds (in non-opt-out states)
 
-Section 522(n) -- sets the IRA-specific cap at $1,512,350
+Section 522(n) - sets the IRA-specific cap at $1,512,350
 
 The practical result: in almost every case, your 401(k), pension, and IRA are completely safe from creditors and trustees in bankruptcy.
 
@@ -1617,9 +1636,9 @@ Clark v. Rameker (2014)
 
 ERISA Plans: Bulletproof Protection
 
-Employer-sponsored retirement plans governed by ERISA -- including 401(k)s, 403(b)s, and defined-benefit pensions -- have the strongest protection. Under ERISA's anti-alienation provision (29 U.S.C. Section 1056(d)), these funds cannot be assigned or alienated. The Supreme Court confirmed in Patterson v. Shumate (1992) that ERISA-qualified plans are excluded from the bankruptcy estate entirely.
+Employer-sponsored retirement plans governed by ERISA - including 401(k)s, 403(b)s, and defined-benefit pensions - have the strongest protection. Under ERISA's anti-alienation provision (29 U.S.C. Section 1056(d)), these funds cannot be assigned or alienated. The Supreme Court confirmed in Patterson v. Shumate (1992) that ERISA-qualified plans are excluded from the bankruptcy estate entirely.
 
-This protection is unlimited -- there is no dollar cap. A debtor with $5 million in a 401(k) keeps all of it. And because the protection comes from ERISA (a federal law outside the Bankruptcy Code), it applies in every state, including opt-out states.
+This protection is unlimited - there is no dollar cap. A debtor with $5 million in a 401(k) keeps all of it. And because the protection comes from ERISA (a federal law outside the Bankruptcy Code), it applies in every state, including opt-out states.
 
 Key point: ERISA protection means your 401(k) and pension are safe regardless of which state you live in, regardless of whether your state has opted out of federal bankruptcy exemptions, and regardless of the balance.
 
@@ -1627,7 +1646,7 @@ IRAs: The $1,512,350 Cap
 
 Traditional and Roth IRAs do not have ERISA protection (because they are not employer-sponsored). Instead, they are protected under Section 522(b)(3)(C) and 522(d)(12), with a cap set by Section 522(n).
 
-The current cap is $1,512,350 for all combined IRA balances (traditional plus Roth). This cap is adjusted every three years for inflation. For most people, this is more than sufficient -- the median IRA balance is well under $100,000.
+The current cap is $1,512,350 for all combined IRA balances (traditional plus Roth). This cap is adjusted every three years for inflation. For most people, this is more than sufficient - the median IRA balance is well under $100,000.
 
 Important: the cap applies only to amounts that are "retirement funds" within the meaning of the statute. Rollovers from ERISA plans into IRAs are generally protected without limit, because they originated as ERISA-protected funds. Courts in most circuits hold that the IRA cap does not apply to rollover amounts.
 
@@ -1645,25 +1664,25 @@ Do not withdraw retirement funds to pay debts before filing. The money is protec
 
 Do not borrow against your 401(k) to pay debts before filing. The loan repayment comes from your paycheck, reducing your disposable income. The original debt would have been discharged in bankruptcy.
 
-Disclose all retirement accounts. Failing to list a retirement account on your bankruptcy schedules is grounds for denial of discharge. The accounts are exempt -- there is no reason to hide them.
+Disclose all retirement accounts. Failing to list a retirement account on your bankruptcy schedules is grounds for denial of discharge. The accounts are exempt - there is no reason to hide them.
 
 Watch for IRA contributions made to defraud creditors. If you move large sums into an IRA shortly before filing specifically to shield them from creditors, the trustee may challenge those contributions as fraudulent transfers.
 
 Legal References
 
-11 U.S.C. Section 522(b)(3)(C) -- Retirement fund exemption
+11 U.S.C. Section 522(b)(3)(C) - Retirement fund exemption
 
-11 U.S.C. Section 522(d)(12) -- Federal retirement exemption
+11 U.S.C. Section 522(d)(12) - Federal retirement exemption
 
-11 U.S.C. Section 522(n) -- IRA exemption cap
+11 U.S.C. Section 522(n) - IRA exemption cap
 
-29 U.S.C. Section 1056(d) -- ERISA anti-alienation
+29 U.S.C. Section 1056(d) - ERISA anti-alienation
 
-Patterson v. Shumate, 504 U.S. 753 (1992) -- ERISA plans excluded from estate
+Patterson v. Shumate, 504 U.S. 753 (1992) - ERISA plans excluded from estate
 
-Clark v. Rameker, 573 U.S. 122 (2014) -- Inherited IRAs not exempt
+Clark v. Rameker, 573 U.S. 122 (2014) - Inherited IRAs not exempt
 
-1328f.com -- Free discharge eligibility screening tool
+1328f.com - Free discharge eligibility screening tool
 
 Related Guides
 
@@ -1680,7 +1699,7 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -1787,9 +1806,11 @@ Vehicles
 Retirement
 Wildcard
 
-State Bankruptcy Exemptions -- 50-State Overview
+State Bankruptcy Exemptions - 50-State Overview
 
 Which states let you choose federal exemptions, which require state-only, and how homestead protection varies dramatically across the country.
+
+whatischapter7.com›State Exemptions
 
 How the State System Works
 
@@ -1799,9 +1820,9 @@ This creates enormous variation. A debtor in Texas can protect an unlimited amou
 
 Three categories of states:
 
-Choice states -- you pick federal or state exemptions (whichever is better for your situation)
+Choice states - you pick federal or state exemptions (whichever is better for your situation)
 
-Opt-out states -- you must use state exemptions only
+Opt-out states - you must use state exemptions only
 
 The distinction matters enormously. In a choice state, a renter with no home equity might choose federal exemptions to access the generous wildcard. A homeowner in the same state might choose state exemptions if the state homestead is higher than $27,900.
 
@@ -1822,7 +1843,7 @@ ArizonaOpt-out$250,000--
 
 ArkansasChoiceUnlimited (rural 160 acres; urban 1/4 acre)Head of family only
 
-CaliforniaOpt-out$300,000 -- $600,000Based on county median home price; own state system includes "System 1" and "System 2"
+CaliforniaOpt-out$300,000 - $600,000Based on county median home price; own state system includes "System 1" and "System 2"
 
 ColoradoOpt-out$250,000$350,000 if elderly or disabled
 
@@ -1878,7 +1899,7 @@ New JerseyChoice$0 (none)Federal homestead ($27,900) available via choice
 
 New MexicoChoice$60,000--
 
-New YorkOpt-out$179,950 -- $399,975Varies by county
+New YorkOpt-out$179,950 - $399,975Varies by county
 
 North CarolinaOpt-out$35,000$60,000 if age 65+
 
@@ -1934,21 +1955,21 @@ If you have not lived in your current state for the majority of the past 730 day
 
 Which System Should You Choose?
 
-If you live in a choice state, run the numbers both ways. Renters often do better with federal exemptions because of the generous wildcard. Homeowners in states with high homestead exemptions often do better with state exemptions. There is no universal answer -- it depends entirely on your specific assets.
+If you live in a choice state, run the numbers both ways. Renters often do better with federal exemptions because of the generous wildcard. Homeowners in states with high homestead exemptions often do better with state exemptions. There is no universal answer - it depends entirely on your specific assets.
 
 Legal References
 
-11 U.S.C. Section 522(b) -- State opt-out authority
+11 U.S.C. Section 522(b) - State opt-out authority
 
-11 U.S.C. Section 522(b)(3) -- Domicile and 730-day rule
+11 U.S.C. Section 522(b)(3) - Domicile and 730-day rule
 
-11 U.S.C. Section 522(p) -- 1,215-day homestead cap
+11 U.S.C. Section 522(p) - 1,215-day homestead cap
 
-Federal exemptions -- Complete Section 522(d) list
+Federal exemptions - Complete Section 522(d) list
 
-Homestead exemption guide -- Detailed homestead analysis
+Homestead exemption guide - Detailed homestead analysis
 
-1328f.com -- Free discharge eligibility screening tool
+1328f.com - Free discharge eligibility screening tool
 
 Related Guides
 
@@ -1965,7 +1986,7 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -2147,11 +2168,11 @@ Missing debtor education: If you forget to complete or file the debtor education
 
 Cross-References
 
-chapter7vs13.org -- Compare the Chapter 7 and Chapter 13 timelines
+chapter7vs13.org - Compare the Chapter 7 and Chapter 13 timelines
 
-bankruptcyfreshstart.org -- Rebuilding after your discharge
+bankruptcyfreshstart.org - Rebuilding after your discharge
 
-Credit score impact -- How Chapter 7 affects your credit and recovery timeline
+Credit score impact - How Chapter 7 affects your credit and recovery timeline
 
 Related Guides
 
@@ -2161,12 +2182,16 @@ Chapter 7 Filing Bar Rules
 
 727(a)(8) Eight-Year Filing Bar
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Further Reading & Resources
 
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -2269,15 +2294,17 @@ Vehicles
 Retirement
 Wildcard
 
-Vehicle Exemption -- Can I Keep My Car?
+Vehicle Exemption - Can I Keep My Car?
 
 Most people keep their vehicles in bankruptcy. The key question is whether your equity exceeds the exemption amount.
+
+whatischapter7.com›Vehicle Exemption
 
 The Federal Vehicle Exemption
 
 Under 11 U.S.C. Section 522(d)(2), you can exempt up to $4,450 in equity in one motor vehicle. This applies to cars, trucks, motorcycles, or any other motor vehicle.
 
-Equity is the difference between what the vehicle is worth (fair market value, typically based on NADA or Kelley Blue Book private-party value) and what you owe on it. If you owe more than the vehicle is worth -- which is common, especially in the first few years of a car loan -- you have zero equity and the exemption is not even needed.
+Equity is the difference between what the vehicle is worth (fair market value, typically based on NADA or Kelley Blue Book private-party value) and what you owe on it. If you owe more than the vehicle is worth - which is common, especially in the first few years of a car loan - you have zero equity and the exemption is not even needed.
 
 Example: No Equity (Underwater)
 
@@ -2313,7 +2340,7 @@ New York: $4,550
 
 Ohio: $4,450
 
-Texas: One vehicle per licensed household member (no dollar cap -- the entire vehicle is exempt)
+Texas: One vehicle per licensed household member (no dollar cap - the entire vehicle is exempt)
 
 In choice states, compare the federal and state vehicle exemptions. Many states also allow you to apply additional exemptions (like the wildcard) to boost your vehicle protection.
 
@@ -2333,7 +2360,7 @@ Under Section 722, you can pay the lender the current fair market value of the v
 
 You return the vehicle to the lender. The remaining loan balance is discharged along with your other debts. This is the simplest option if you cannot afford the payments or do not need the vehicle.
 
-Note: Some circuits allow a fourth option -- "retain and pay" -- where you simply continue making payments without signing a reaffirmation agreement. This gives you the flexibility to walk away later without personal liability. However, this approach is not available in all circuits, and some lenders will repossess if you do not formally reaffirm.
+Note: Some circuits allow a fourth option - "retain and pay" - where you simply continue making payments without signing a reaffirmation agreement. This gives you the flexibility to walk away later without personal liability. However, this approach is not available in all circuits, and some lenders will repossess if you do not formally reaffirm.
 
 Vehicles in Chapter 13
 
@@ -2345,7 +2372,7 @@ If your vehicle loan is more than 910 days old (about 2.5 years), you can "cram 
 
 Interest Rate Reduction
 
-Under the Supreme Court's decision in Till v. SCS Credit Corp. (2004), cramdown interest rates in Chapter 13 are calculated using the prime rate plus a risk adjustment -- typically 1-3%. If your original loan had a high interest rate (common for subprime borrowers), Chapter 13 can reduce it significantly.
+Under the Supreme Court's decision in Till v. SCS Credit Corp. (2004), cramdown interest rates in Chapter 13 are calculated using the prime rate plus a risk adjustment - typically 1-3%. If your original loan had a high interest rate (common for subprime borrowers), Chapter 13 can reduce it significantly.
 
 The automatic stay also halts any repossession proceedings the moment you file Chapter 13. If your vehicle was recently repossessed, you may be able to recover it through the bankruptcy case if you act quickly.
 
@@ -2363,17 +2390,17 @@ Chapter 13 instead: If your equity exceeds all available exemptions, Chapter 13 
 
 Legal References
 
-11 U.S.C. Section 522(d)(2) -- Federal motor vehicle exemption
+11 U.S.C. Section 522(d)(2) - Federal motor vehicle exemption
 
-11 U.S.C. Section 521(a)(2) -- Statement of intention for secured property
+11 U.S.C. Section 521(a)(2) - Statement of intention for secured property
 
-11 U.S.C. Section 722 -- Redemption
+11 U.S.C. Section 722 - Redemption
 
-11 U.S.C. Section 1325(a) -- Chapter 13 plan confirmation (cramdown)
+11 U.S.C. Section 1325(a) - Chapter 13 plan confirmation (cramdown)
 
-reaffirmationagreement.com -- Reaffirmation agreement guide
+reaffirmationagreement.com - Reaffirmation agreement guide
 
-1328f.com -- Free discharge eligibility screening tool
+1328f.com - Free discharge eligibility screening tool
 
 Related Guides
 
@@ -2390,7 +2417,7 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -2503,27 +2530,30 @@ Chapter 7 Bankruptcy
 
 Most people keep everything. Here is what exemptions protect and how the "no-asset" reality works.
 
+Home›Whatischapter7›What You Keep in
+Chapter 7 Bankruptcy
+
 The 95% Reality
 
-About 95% of Chapter 7 cases are "no-asset" cases -- the trustee finds nothing to liquidate because exemptions protect everything the debtor owns. The popular image of bankruptcy as "losing everything" is a myth for the vast majority of filers.
+About 95% of Chapter 7 cases are "no-asset" cases - the trustee finds nothing to liquidate because exemptions protect everything the debtor owns. The popular image of bankruptcy as "losing everything" is a myth for the vast majority of filers.
 
 Exemptions are the legal tool that protects your property. Every state has its own exemption laws, and some states allow you to choose between state and federal exemptions.
 
 What's Typically Protected
 
-Your home -- up to your state's homestead exemption (varies from $5,000 to unlimited)
+Your home - up to your state's homestead exemption (varies from $5,000 to unlimited)
 
-Your car -- up to your state's vehicle exemption (typically $2,500-$6,000 in equity)
+Your car - up to your state's vehicle exemption (typically $2,500-$6,000 in equity)
 
-Retirement accounts -- 401(k), IRA, pension: protected without limit (ERISA) or up to $1.5M (IRAs)
+Retirement accounts - 401(k), IRA, pension: protected without limit (ERISA) or up to $1.5M (IRAs)
 
-Household goods -- furniture, appliances, clothing: broadly protected
+Household goods - furniture, appliances, clothing: broadly protected
 
-Tools of your trade -- equipment you need for work
+Tools of your trade - equipment you need for work
 
-Public benefits -- Social Security, unemployment, disability, veterans benefits
+Public benefits - Social Security, unemployment, disability, veterans benefits
 
-Personal injury awards -- varies by state
+Personal injury awards - varies by state
 
 When Assets Are at Risk
 
@@ -2572,6 +2602,10 @@ Bankruptcy Exemptions by State
 Chapter 7 vs Chapter 13
 
 How to File Bankruptcy
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Stay updated on new datasets and research findings
 
@@ -2637,9 +2671,12 @@ Chapter 7 Bankruptcy
 
 The 5% of cases where the trustee finds non-exempt assets. What gets liquidated and how to plan ahead.
 
+Home›Whatischapter7›What You Might Lose in
+Chapter 7 Bankruptcy
+
 The 5% Asset Case
 
-In roughly 5% of Chapter 7 cases, the trustee identifies non-exempt assets -- property whose value exceeds what exemptions protect. In these cases, the trustee may liquidate (sell) the non-exempt property and distribute the proceeds to creditors.
+In roughly 5% of Chapter 7 cases, the trustee identifies non-exempt assets - property whose value exceeds what exemptions protect. In these cases, the trustee may liquidate (sell) the non-exempt property and distribute the proceeds to creditors.
 
 What Gets Liquidated
 
@@ -2759,6 +2796,9 @@ Chapter 7 Bankruptcy?
 
 Means test income limits, household size, special rules for veterans, and how to check your eligibility.
 
+Home›Whatischapter7›Who Qualifies for
+Chapter 7 Bankruptcy?
+
 The Means Test
 
 Chapter 7 eligibility centers on the means test. If your household income over the past 6 months (annualized) is below your state's median for your household size, you qualify automatically. Above median, a detailed expense calculation determines eligibility.
@@ -2821,6 +2861,10 @@ Free Bankruptcy Eligibility Screener
 
 Chapter 7 vs Chapter 13
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Stay updated on new datasets and research findings
 
 No spam. No marketing. Just data.
@@ -2881,7 +2925,9 @@ Wildcard
 
 The Wildcard Exemption
 
-The most flexible exemption in bankruptcy. Apply it to any property -- cash, bank accounts, tax refunds, vehicles, legal claims, or anything else you own.
+The most flexible exemption in bankruptcy. Apply it to any property - cash, bank accounts, tax refunds, vehicles, legal claims, or anything else you own.
+
+whatischapter7.com›Wildcard Exemption
 
 How the Wildcard Works
 
@@ -2939,7 +2985,7 @@ Pending lawsuits and expected settlements are property of the estate. While some
 
 Business Assets
 
-Small business owners filing personal bankruptcy can use the wildcard to protect business assets that do not fall within the $2,800 tools-of-the-trade exemption -- inventory, accounts receivable, or equipment that exceeds the tools limit.
+Small business owners filing personal bankruptcy can use the wildcard to protect business assets that do not fall within the $2,800 tools-of-the-trade exemption - inventory, accounts receivable, or equipment that exceeds the tools limit.
 
 State Wildcard Exemptions
 
@@ -2961,15 +3007,15 @@ Remember: You cannot mix federal and state exemptions. If you choose the federal
 
 Legal References
 
-11 U.S.C. Section 522(d)(5) -- Wildcard exemption
+11 U.S.C. Section 522(d)(5) - Wildcard exemption
 
-11 U.S.C. Section 522(d)(1) -- Homestead exemption (basis for unused portion)
+11 U.S.C. Section 522(d)(1) - Homestead exemption (basis for unused portion)
 
 Complete federal exemptions list
 
 State exemptions table
 
-1328f.com -- Free discharge eligibility screening tool
+1328f.com - Free discharge eligibility screening tool
 
 Related Guides
 
@@ -2986,7 +3032,7 @@ Further Reading & Resources
 Authority sources for deeper research on Chapter 7 bankruptcy:
 
 11 U.S.C. Chapter 7
-Cornell LII -- full Chapter 7 text
+Cornell LII - full Chapter 7 text
 
 Chapter 7 Basics
 USCourts.gov
@@ -3074,3 +3120,75 @@ $0 of $5,000 Q1 PACER research goal
 Sponsor this research
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - whatischapter7.com
+Source: https://whatischapter7.com/privacy.html
+
+whatischapter7.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
