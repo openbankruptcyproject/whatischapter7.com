@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Homestead Exemption in Bankruptcy: Can I Keep My House?</title>
+<meta name="description" content="Learn about homestead exemption in bankruptcy: can i keep my house? | whatischapter7.com in our free 2026 guide.">
+<meta name="keywords" content="homestead exemption bankruptcy, can I keep my house bankruptcy, home equity exemption, BAPCPA residency requirement, 522(d)(1), homestead cap">
+<link rel="canonical" href="https://whatischapter7.com/homestead.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Homestead Exemption in Bankruptcy: Can I Keep My House?">
+<meta property="og:description" content="Learn about homestead exemption in bankruptcy: can i keep my house? | whatischapter7.com in our free 2026 guide.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://whatischapter7.com/homestead.html">
+<meta property="og:site_name" content="whatischapter7.com">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Homestead Exemption in Bankruptcy: Can I Keep My House?">
+<meta name="twitter:description" content="Learn about homestead exemption in bankruptcy: can i keep my house? | whatischapter7.com in our free 2026 guide.">
+<meta property="og:image" content="https://whatischapter7.com/og-image.svg">
+<meta name="twitter:image" content="https://whatischapter7.com/og-image.svg">
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav {
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem; display: flex; align-items: center;
+    justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;
+  }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header {
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem; text-align: center;
+  }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem;
+  }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .highlight-box {
+    background: #21262d; border-left: 3px solid var(--accent);
+    padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0;
+  }
+  .highlight-box.warning { border-left-color: var(--red); }
+  .highlight-box.success { border-left-color: var(--green); }
+  .highlight-box p { margin-bottom: 0.5rem; }
+  .highlight-box p:last-child { margin-bottom: 0; }
+  .example-box {
+    background: #21262d; border: 1px solid var(--border);
+    border-radius: 6px; padding: 1.25rem; margin: 1rem 0;
+  }
+  .example-box .label {
+    color: var(--accent); font-weight: 600; font-size: 0.85rem;
+    text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem;
+  }
+  .example-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+  .example-box p:last-child { margin-bottom: 0; }
+  .network-footer {
+    background: var(--surface); border-top: 1px solid var(--border);
+    padding: 2rem; text-align: center; margin-top: 3rem;
+  }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; }
+    .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .nav-links a { display: block; padding: 0.5rem 0; min-height: 44px; line-height: 2; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "whatischapter7.com", "item": "https://whatischapter7.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Homestead Exemption", "item": "https://whatischapter7.com/homestead.html" }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Homestead Exemption in Bankruptcy: Can I Keep My House?",
+  "description": "How the homestead exemption protects your home in bankruptcy. Equity calculations, state variation, and BAPCPA residency requirements.",
+  "url": "https://whatischapter7.com/homestead.html",
+  "isPartOf": { "@type": "WebSite", "name": "whatischapter7.com", "url": "https://whatischapter7.com/" }
+}
+</script>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Homestead Exemption - Can I Keep My House?",
+      "description": "How the homestead exemption protects your home in bankruptcy. Equity calculations, state-by-state variation, the BAPCPA 2-year residency rule, and the 1,215-day",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://whatischapter7.com/homestead.html"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Homestead Exemption - Can I Keep My House?", "acceptedAnswer": {"@type": "Answer", "text": "Exemptions are laws that protect certain property from being taken by the bankruptcy trustee or creditors. They cover your home, car, personal belongings, retirement accounts, and other assets up to specified dollar limits. Exemptions determine what you keep in bankruptcy."}}, {"@type": "Question", "name": "What are bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "Exemptions are laws that protect certain property from being taken by the bankruptcy trustee or creditors. They cover your home, car, personal belongings, retirement accounts, and other assets up to specified dollar limits. Exemptions determine what you keep in bankruptcy."}}, {"@type": "Question", "name": "Can I lose my house in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Not if your home equity falls within your state's homestead exemption. The exemption protects a certain dollar amount of equity in your primary residence. If your equity exceeds the exemption, the trustee could sell the home, but this is uncommon."}}, {"@type": "Question", "name": "What is the homestead exemption?", "acceptedAnswer": {"@type": "Answer", "text": "The homestead exemption protects equity in your primary residence. Amounts vary dramatically by state, from under $10,000 in some states to unlimited in Texas, Florida, and Kansas. Some states require you to have owned and lived in the home for a minimum period."}}, {"@type": "Question", "name": "Are retirement accounts protected in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Most retirement accounts, including 401(k)s, 403(b)s, and IRAs, are fully protected in bankruptcy under federal law. Traditional and Roth IRAs are protected up to about $1.5 million (adjusted periodically). ERISA-qualified plans have unlimited protection."}}]}
+</script>
+
+<link rel="alternate" hreflang="en" href="https://whatischapter7.com/homestead.html">
+<link rel="alternate" hreflang="es" href="https://whatischapter7.com/homestead-es.html">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<nav aria-label="Site navigation">
+  <a href="/" class="site-name">whatischapter7.com</a>
+  <button class="hamburger" aria-label="Toggle navigation" aria-expanded="false" onclick="let n=this.nextElementSibling;n.classList.toggle('open');this.setAttribute('aria-expanded',n.classList.contains('open'))">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/federal-exemptions.html">Federal Exemptions</a>
+    <a href="/state-exemptions.html">State Exemptions</a>
+    <a href="/homestead.html" class="active">Homestead</a>
+    <a href="/vehicles.html">Vehicles</a>
+    <a href="/retirement.html">Retirement</a>
+    <a href="/wildcard.html">Wildcard</a>
+  </div>
+</nav>
+
+<header>
+  <h1>Homestead Exemption - <span class="accent">Can I Keep My House?</span></h1>
+  <p class="subtitle">The homestead exemption is the most important exemption for homeowners. It protects equity in your primary residence from creditors in bankruptcy.</p>
+</header>
+
+<main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://whatischapter7.com/">whatischapter7.com</a><span class="separator">&rsaquo;</span><span>Homestead Exemption</span></nav>
+
+
+  <div class="content-section">
+    <h2>How the Homestead Exemption Works</h2>
+    <p>The homestead exemption protects <strong>equity</strong> in your primary residence - not the total value of the home. Equity is the difference between what your home is worth and what you owe on it (mortgages, home equity loans, tax liens, etc.).</p>
+    <p>If your equity is less than or equal to the exemption amount, the trustee cannot sell your home. If your equity exceeds the exemption, the trustee could theoretically sell the home, pay off your mortgage, give you your exempt amount, and distribute the rest to creditors. In practice, trustees rarely do this unless the non-exempt equity is substantial, because the costs of sale reduce the net recovery.</p>
+
+    <div class="example-box">
+      <p class="label">Example: Home is Protected</p>
+      <p>Home value: $250,000. Mortgage balance: $230,000. Your equity: $20,000.</p>
+      <p>Federal homestead exemption: $27,900. Since $20,000 is less than $27,900, your home is fully exempt.</p>
+    </div>
+
+    <div class="example-box">
+      <p class="label">Example: Home Has Non-Exempt Equity</p>
+      <p>Home value: $350,000. Mortgage balance: $250,000. Your equity: $100,000.</p>
+      <p>If your state homestead exemption is $50,000, you have $50,000 in non-exempt equity. The trustee could sell the home, pay off the $250,000 mortgage, give you $50,000, and distribute the remaining $50,000 (minus sale costs) to creditors.</p>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <h2>State Variation</h2>
+    <p>Homestead <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> vary more than any other exemption category. The range is enormous:</p>
+    <ul>
+      <li><strong>Unlimited:</strong> Texas, Florida, Iowa, Kansas, Oklahoma, South Dakota, and Arkansas offer unlimited homestead <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> (subject to acreage limits)</li>
+      <li><strong>High:</strong> Nevada ($605,000), Massachusetts ($500,000), Rhode Island ($500,000), Minnesota ($450,000)</li>
+      <li><strong>Moderate:</strong> Arizona ($250,000), Colorado ($250,000), Idaho ($175,000)</li>
+      <li><strong>Low:</strong> Missouri ($15,000), Illinois ($15,000), Virginia ($5,000), Kentucky ($5,000), Tennessee ($5,000)</li>
+      <li><strong>None:</strong> New Jersey and Pennsylvania have no state homestead exemption (but both allow the $27,900 federal exemption)</li>
+    </ul>
+    <p>See the complete <a href="/state-exemptions.html">50-state exemption table</a> for your state's specific amount.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>The 730-Day Residency Requirement</h2>
+    <p>Under <a href="https://www.law.cornell.edu/uscode/text/11/522#b_3">Section 522(b)(3)</a>, you must use the exemptions of the state where you have been domiciled for the greater part of the 730 days (two years) immediately before filing. This rule prevents "exemption shopping" - moving to a more favorable state right before filing.</p>
+
+    <div class="highlight-box warning">
+      <p><strong>If you moved recently:</strong> If you have not lived in your current state for at least 730 days, you may have to use your former state's exemptions. If no state qualifies under the 730-day test, you default to the federal exemptions under Section 522(b)(3)(C), even if your current state has opted out.</p>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <h2>The 1,215-Day Homestead Cap</h2>
+    <p>Section 522(p) adds another restriction. If you acquired your homestead interest within 1,215 days (about 3 years and 4 months) before filing, your homestead exemption is capped at $189,050 - regardless of what your state law allows. This cap was designed to prevent people from sinking money into a home in an unlimited-homestead state right before filing.</p>
+    <p>Important exceptions to the 1,215-day cap:</p>
+    <ul>
+      <li><strong>Rollover equity:</strong> If you sold a prior homestead in the same state and used the proceeds to buy the current home, the cap does not apply to the rolled-over equity</li>
+      <li><strong>Family farm:</strong> The cap does not apply to family farmers</li>
+      <li><strong>Appreciation:</strong> Courts are split on whether market appreciation counts toward the cap (some circuits say it does not)</li>
+    </ul>
+  </div>
+
+  <div class="content-section">
+    <h2>Homestead in Chapter 13</h2>
+    <p>In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, you keep your home. The homestead exemption still matters, though, because of the <strong>best interests of creditors test</strong> under <a href="https://www.law.cornell.edu/uscode/text/11/1325#a_4">Section 1325(a)(4)</a>. Your plan must pay unsecured creditors at least as much as they would receive in a hypothetical Chapter 7 liquidation.</p>
+    <p>If you have non-exempt equity in your home, that amount increases your required <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> payments. For example, if you have $30,000 in non-exempt home equity, your plan must distribute at least $30,000 to unsecured creditors over 3-5 years.</p>
+    <p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> also allows you to cure mortgage arrears through the plan, keeping your home even if you are behind on payments. This is one of the most powerful features of Chapter 13 for homeowners facing foreclosure. Learn more about the <a href="https://automaticstay.org">automatic stay</a> that halts foreclosure proceedings.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Practical Tips</h2>
+    <ul>
+      <li><strong>Get a current appraisal or CMA</strong> - you need an accurate market value, not a Zillow estimate, to calculate equity</li>
+      <li><strong>Include all liens</strong> - mortgages, home equity lines, tax liens, judgment liens, and mechanic's liens all reduce equity</li>
+      <li><strong>Consider lien avoidance</strong> - under <a href="https://www.law.cornell.edu/uscode/text/11/522#f">Section 522(f)</a>, you can avoid judicial liens that impair your homestead exemption</li>
+      <li><strong>Timing matters</strong> - if you are close to the 730-day or 1,215-day thresholds, waiting a few months to file could significantly change your exemption</li>
+      <li><strong>Joint filers can stack</strong> - married couples filing jointly can each claim the homestead exemption, effectively doubling the amount in states that allow it</li>
+    </ul>
+  </div>
+
+  <div class="content-section">
+    <h2>Legal References</h2>
+    <ul>
+      <li><a href="https://www.law.cornell.edu/uscode/text/11/522#d_1">11 U.S.C. Section 522(d)(1)</a> - Federal homestead exemption</li>
+      <li><a href="https://www.law.cornell.edu/uscode/text/11/522#b_3">11 U.S.C. Section 522(b)(3)</a> - 730-day domicile rule</li>
+      <li><a href="https://www.law.cornell.edu/uscode/text/11/522#p">11 U.S.C. Section 522(p)</a> - 1,215-day homestead cap</li>
+      <li><a href="https://www.law.cornell.edu/uscode/text/11/522#f">11 U.S.C. Section 522(f)</a> - Lien avoidance</li>
+      <li><a href="/state-exemptions.html">State exemptions table</a> - Homestead amounts by state</li>
+      <li><a href="https://1328f.com">1328f.com</a> - Free <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility screening tool</li>
+    </ul>
+  </div>
+
+
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+  <li><a href="https://bankruptcymeanstest.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Means Test Calculator</a></li>
+  <li><a href="https://chapter7vs13.org" style="color:#58a6ff;text-decoration:none">Chapter 7 vs Chapter 13 Comparison</a></li>
+  <li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">Chapter 7 Filing Bar Rules</a></li>
+  <li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">727(a)(8) Eight-Year Filing Bar</a></li>
+  </ul>
+</div>
+
+</main>
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on Chapter 7 bankruptcy:</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/chapter-7" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Chapter 7</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - full Chapter 7 text</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Chapter 7 Basics</a><br><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/forms/bankruptcy-forms" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Official Bankruptcy Forms</a><br><span style="color:#7d8590;font-size:0.8rem">All required filing forms</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-chapter-7-bankruptcy-en-1947/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">CFPB: Chapter 7</a><br><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">U.S. Trustee Program</a><br><span style="color:#7d8590;font-size:0.8rem">DOJ bankruptcy oversight</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22means+test%22+%22chapter+7%22+bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Chapter 7 Research</a><br><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+  </ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://bankruptcydismissed.com?utm_source=whatischapter7.com&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Dismissed Bankruptcy Cases</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcydismissed.com &rarr;</p>
+    </a>
+    <a href="https://howtofilebankruptcy.org?utm_source=whatischapter7.com&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How to File Bankruptcy</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete filing guide from start to finish</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howtofilebankruptcy.org &rarr;</p>
+    </a>
+    <a href="https://727a8.com?utm_source=whatischapter7.com&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=whatischapter7.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=whatischapter7.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=whatischapter7.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+  </ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
+  <p><strong>Open Bankruptcy Project</strong></p>
+  <div class="links">
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://1328f.com?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
+    <a href="https://1328f.org?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">1328f.org</a>
+    <a href="https://341meeting.com?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">341meeting.com</a>
+    <a href="https://automaticstay.org?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">automaticstay.org</a>
+    <a href="https://727a8.com?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">727a8.com</a>
+    <a href="https://524injunction.com?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">524injunction.com</a>
+    <a href="https://bankruptcycost.com?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">bankruptcycost.com</a>
+    <a href="https://bankruptcydismissed.com?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">bankruptcydismissed.com</a>
+    <a href="https://filebankruptcyagain.com?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network">filebankruptcyagain.com</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=whatischapter7.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+  <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input type="hidden" name="_subject" value="BTN Research Subscriber">
+    <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
+  </form>
+</div>
+<div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+  <a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+
+<script src="/btn-engage.js" defer></script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>
